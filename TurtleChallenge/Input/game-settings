@@ -1,0 +1,24 @@
+{
+"settings": {
+"board": {
+"height": "5",
+"width": "10"
+},
+"turtlePose": {
+"horizontalPosition": "2",
+"verticalPosition": "3",
+"orientationType": "N"
+},
+"exitPosition": {
+"horizontalPosition": "5",
+"verticalPosition": "10"
+},
+"minesPosition": [{
+"horizontalPosition": "4",
+"verticalPosition": "9"
+}, {
+"horizontalPosition": "8",
+"verticalPosition": "3"
+}]
+}
+}
